@@ -38,7 +38,7 @@ public class UnionAndIntersection {
             unio.add(arr2[i]);
         }
 
-        Iterator itr = unio.iterator();
+        Iterator<Integer> itr = unio.iterator();
         while (itr.hasNext()) {
             System.out.print(itr.next() + " ");
         }
