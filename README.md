@@ -9,14 +9,14 @@ Q. Find the maximum and minimum element in an array <✅> <br>
 Q. Find the "Kth" max and min element of an array <✅> <br>
 Q. Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo <✅> <br>
 Q. Move all the negative elements to one side of the array <✅> <br>
-Q. Find the Union and Intersection of the two sorted arrays. <-> <br>
-Q. Write a program to cyclically rotate an array by one. <-> <br>
-Q. find Largest sum contiguous Subarray [V. IMP] <-> <br>
+Q. Find the Union and Intersection of the two sorted arrays. <✅> <br>
+Q. Write a program to cyclically rotate an array by one. <✅> <br>
+Q. find Largest sum contiguous Subarray [V. IMP] <✅> <br>
 Q. Minimise the maximum difference between heights [V.IMP] <-> <br>
 Q. Minimum-number-of-jumps to reach the end of Array<-> <br>
 Q. find duplicate in an array of N+1 Integers <-> <br>
 Q. Merge 2 sorted arrays without using Extra space. <-> <br>
-Q. Kadane's Algo [V.V.V.V.V IMP] <-> <br>
+Q. Kadane's Algo [V.V.V.V.V IMP] <✅> <br>
 Q. Merge Intervals <-> <br>
 Q. Next Permutation <-> <br>
 Q. Count Inversion <-> <br>
