@@ -260,12 +260,12 @@ Q. Flatten BST to sorted list <-> <br>
 
 # GREEDY
 
-Q. Activity Selection Problem <-> <br>
-Q. Job SequencingProblem <-> <br>
+Q. Activity Selection Problem <✅> <br>
+Q. Job SequencingProblem <✅> <br>
 Q. Huffman Coding <-> <br>
 Q. Water Connection Problem <-> <br>
-Q. Fractional Knapsack Problem <->
-Q. Greedy Algorithm to find Minimum number of Coins <-> <br>
+Q. Fractional Knapsack Problem <✅>
+Q. Greedy Algorithm to find Minimum number of Coins <✅> <br>
 Q. Maximum trains for which stoppage can be provided <-> <br>
 Q. Minimum Platforms Problem <-> <br>
 Q. Buy Maximum Stocks if i stocks can be bought on i-th day <-> <br>
@@ -513,4 +513,4 @@ Q. Find position of the only set bit <✅> <br>
 Q. Copy set bits in a range <✅> <br>
 Q. Divide two integers without using multiplication, division and mod operator <-> <br>
 Q. Calculate square of a number without using \*, / and pow() <-> <br>
-Q. Power Set <-> <br>
+Q. Power Set <✅> <br>
