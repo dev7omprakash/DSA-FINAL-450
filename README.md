@@ -11,7 +11,7 @@ Q. Given an array which consists of only 0, 1 and 2. Sort the array without usin
 Q. Move all the negative elements to one side of the array <✅> <br>
 Q. Find the Union and Intersection of the two sorted arrays. <✅> <br>
 Q. Write a program to cyclically rotate an array by one. <✅> <br>
-Q. find Largest sum contiguous Subarray [V. IMP] <✅> <br>
+Q. find Largest sum contiguous Subarray [V.IMP] <✅> <br>
 Q. Minimise the maximum difference between heights [V.IMP] <✅> <br>
 Q. Minimum-number-of-jumps to reach the end of Array<-> <br>
 Q. find duplicate in an array of N+1 Integers <✅> <br>
@@ -20,9 +20,9 @@ Q. Kadane's Algo [V.V.V.V.V IMP] <✅> <br>
 Q. Merge Intervals <✅> <br>
 Q. Next Permutation <-> <br>
 Q. Count Inversion <-> <br>
-Q. Best time to buy and Sell stock <-> <br>
+Q. Best time to buy and Sell stock <✅> <br>
 Q. find all pairs on integer array whose sum is equal to given number <✅> <br>
-Q. find common elements In 3 sorted arrays <-> <br>
+Q. find common elements In 3 sorted arrays <✅> <br>
 Q. Rearrange the array in alternating positive and negative items with O(1) extra space <-> <br>
 Q. Find if there is any subarray with sum equal to 0 <✅> <br>
 Q. Find factorial of a large number <-> <br>
