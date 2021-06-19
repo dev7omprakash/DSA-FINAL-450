@@ -27,14 +27,14 @@ Q. Rearrange the array in alternating positive and negative items with O(1) extr
 Q. Find if there is any subarray with sum equal to 0 <✅> <br>
 Q. Find factorial of a large number <-> <br>
 Q. find maximum product subarray <-> <br>
-Q. Find longest coinsecutive subsequence <-> <br>
+Q. Find longest coinsecutive subsequence <✅> <br>
 Q. Given an array of size n and a number k, fin all elements that appear more than " n/k " times. <-> <br>
 Q. Maximum profit by buying and selling a share atmost twice <-> <br>
 Q. Find whether an array is a subset of another array <✅> <br>
 Q. Find the triplet that sum to a given value <✅> <br>
 Q. Trapping Rain water problem <✅> <br>
 Q. Chocolate Distribution problem <-> <br>
-Q. Smallest Subarray with sum greater than a given value <-> <br>
+Q. Smallest Subarray with sum greater than a given value <✅> <br>
 Q. Three way partitioning of an array around a given value <✅> <br>
 Q. Minimum swaps required bring elements less equal K together <✅> <br>
 Q. Minimum no. of operations required to make an array palindrome <✅> <br>
@@ -266,8 +266,9 @@ Q. Huffman Coding <-> <br>
 Q. Water Connection Problem <-> <br>
 Q. Fractional Knapsack Problem <✅>
 Q. Greedy Algorithm to find Minimum number of Coins <✅> <br>
+Q. Choose and Swap <✅> <br>
 Q. Maximum trains for which stoppage can be provided <-> <br>
-Q. Minimum Platforms Problem <-> <br>
+Q. Minimum Platforms Problem <✅> <br>
 Q. Buy Maximum Stocks if i stocks can be bought on i-th day <-> <br>
 Q. Find the minimum and maximum amount to buy all N candies <-> <br>
 Q. Minimize Cash Flow among a given set of friends who have borrowed money from each other <-> <br>
