@@ -18,28 +18,28 @@ Q. find duplicate in an array of N+1 Integers <✅> <br>
 Q. Merge 2 sorted arrays without using Extra space. <✅> <br>
 Q. Kadane's Algo [V.V.V.V.V IMP] <✅> <br>
 Q. Merge Intervals <✅> <br>
-Q. Next Permutation <-> <br>
-Q. Count Inversion <-> <br>
+Q. Next Permutation <🔴> <br>
+Q. Count Inversion <🔴> <br>
 Q. Best time to buy and Sell stock <✅> <br>
 Q. find all pairs on integer array whose sum is equal to given number <✅> <br>
 Q. find common elements In 3 sorted arrays <✅> <br>
-Q. Rearrange the array in alternating positive and negative items with O(1) extra space <-> <br>
+Q. Rearrange the array in alternating positive and negative items with O(1) extra space <🔴> <br>
 Q. Find if there is any subarray with sum equal to 0 <✅> <br>
-Q. Find factorial of a large number <-> <br>
-Q. find maximum product subarray <-> <br>
+Q. Find factorial of a large number <✅> <br>
+Q. find maximum product subarray <✅> <br>
 Q. Find longest coinsecutive subsequence <✅> <br>
-Q. Given an array of size n and a number k, fin all elements that appear more than " n/k " times. <-> <br>
+Q. Given an array of size n and a number k, fin all elements that appear more than " n/k " times. <✅> <br>
 Q. Maximum profit by buying and selling a share atmost twice <-> <br>
 Q. Find whether an array is a subset of another array <✅> <br>
 Q. Find the triplet that sum to a given value <✅> <br>
 Q. Trapping Rain water problem <✅> <br>
-Q. Chocolate Distribution problem <-> <br>
+Q. Chocolate Distribution problem <🔴> <br>
 Q. Smallest Subarray with sum greater than a given value <✅> <br>
 Q. Three way partitioning of an array around a given value <✅> <br>
 Q. Minimum swaps required bring elements less equal K together <✅> <br>
 Q. Minimum no. of operations required to make an array palindrome <✅> <br>
-Q. Median of 2 sorted arrays of equal size <-> <br>
-Q. Median of 2 sorted arrays of different size <-> <br>
+Q. Median of 2 sorted arrays of equal size <✅> <br>
+Q. Median of 2 sorted arrays of different size <✅> <br>
 
 <hr>
 
