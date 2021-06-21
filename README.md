@@ -29,7 +29,7 @@ Q. Find factorial of a large number <✅> <br>
 Q. find maximum product subarray <✅> <br>
 Q. Find longest coinsecutive subsequence <✅> <br>
 Q. Given an array of size n and a number k, fin all elements that appear more than " n/k " times. <✅> <br>
-Q. Maximum profit by buying and selling a share atmost twice <-> <br>
+Q. Maximum profit by buying and selling a share atmost twice <🔴> <br>
 Q. Find whether an array is a subset of another array <✅> <br>
 Q. Find the triplet that sum to a given value <✅> <br>
 Q. Trapping Rain water problem <✅> <br>
