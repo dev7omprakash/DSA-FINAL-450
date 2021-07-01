@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Sliding Window",
         "Array",
-        "Sliding Window"
+        "Binary Search"
     ]
 }
